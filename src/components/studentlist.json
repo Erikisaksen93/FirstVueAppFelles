@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Erik",
+        "lastName": "Isaksen",
+        "age": 28,
+        "id": 1
+    },
+    {
+        "firstName": "Stian",
+        "lastName": "Andreassen",
+        "age": 24,
+        "id": 2
+    },
+    {
+        "firstName": "Flemming",
+        "lastName": "Hogstad",
+        "age": 31,
+        "id": 3
+    },
+    {
+        "firstName": "Henrik",
+        "lastName": "Musk",
+        "age": 28,
+        "id": 4
+    },
+    {
+        "firstName": "Theodoro",
+        "lastName": "Elradoro",
+        "age": 24,
+        "id": 5
+    }
+]
